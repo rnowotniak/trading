@@ -1,0 +1,103 @@
+Symbol;Description;Digits;Spread;Swap Long;Swap Short;Swap Type;Stop Level;Lot Size;Lot Min;Lot Step;Tick Value;Tick Size;Trade Allowed;Pr. Mode
+AUDCAD;AUSTRALIAN DOLLAR VS CANADIAN DOLLAR;5;32;-0.9;-8.19;points;160;100000;0.01;0.01;2.839511;1E-05;yes;Forex
+AUDCHF;Australian Dollar vs Swiss Franc;5;36;2.21;-8.89;points;160;100000;0.01;0.01;3.871266;1E-05;yes;Forex
+AUDJPY;Australian Dollar vs Japanise Yen;3;29;0.76;-8.44;points;99;100000;0.01;0.01;3.37014;0.001;yes;Forex
+AUDNZD;Australian Dollar vs New Zealand Dollar;5;41;-4.82;-4.62;points;210;100000;0.01;0.01;2.742852;1E-05;yes;Forex
+AUDUSD;Australian Dollar vs US Dollar;5;19;-1.07;-3.73;points;50;100000;0.01;0.01;3.75656;1E-05;yes;Forex
+CADCHF;Canadian Dollar vs Swiss Franc;0;0;-0.14;-5.95;points;180;100000;0.01;0.01;0;1E-05;yes;Forex
+CADJPY;Canadian Dollar vs Japanise Yen;3;32;-2.47;-4.97;points;100;100000;0.01;0.01;3.37014;0.001;yes;Forex
+CHFJPY;Swiss Franc vs Japanise Yen;0;0;-7.32;-2.74;points;120;100000;0.01;0.01;0;0.001;yes;Forex
+CHFSGD;Swiss Franc vs Singapore Dollar;0;0;-14.68;-2.28;points;280;100000;0.01;0.01;0;1E-05;yes;Forex
+EURAUD;Euro vs Australian Dollar;5;38;-15.7;2.5;points;120;100000;0.01;0.01;2.850327;1E-05;yes;Forex
+EURCAD;Euro vs Canadian Dollar;0;0;-10.12;-3.22;points;140;100000;0.01;0.01;0;1E-05;yes;Forex
+EURCHF;Euro vs Swiss Franc;5;26;-2.23;-4.43;points;62;100000;0.01;0.01;3.871266;1E-05;yes;Forex
+EURGBP;Euro vs Great Britan Pound;0;0;-4.13;-0.73;points;50;100000;0.01;0.01;0;1E-05;yes;Forex
+EURHUF;Euro vs Hungarian Forint;0;0;-22.22;-15.42;points;600;100000;0.01;0.01;0;0.001;yes;Forex
+EURJPY;Euro vs Japanise Yen;0;0;-5.48;-2.18;points;54;100000;0.01;0.01;0;0.001;yes;Forex
+EURNOK;Euro vs Norwegian Krone;5;614;-85.69;-30.59;points;620;100000;0.01;0.01;0.443566;1E-05;yes;Forex
+EURNZD;Euro vs New Zealand Dollar;0;0;-16.69;3.11;points;220;100000;0.01;0.01;0;1E-05;yes;Forex
+EURPLN;Euro vs Polish Zloty;5;445;-50.33;-2.53;points;540;100000;0.01;0.01;1;1E-05;yes;Forex
+EURSEK;Euro vs Swedish Krona;5;410;-52.04;-60.94;points;560;100000;0.01;0.01;0.431366;1E-05;yes;Forex
+EURSGD;Euro vs Singapore Dollar;0;0;-15.98;-6.88;points;140;100000;0.01;0.01;0;1E-05;yes;Forex
+EURTRY;Euro vs Turkish Lira;0;0;-167.56;96.74;points;300;100000;0.01;0.01;0;1E-05;yes;Forex
+EURUSD;Euro vs US Dollar;5;18;-7.99;1.61;points;40;100000;0.01;0.01;3.75656;1E-05;yes;Forex
+EURZAR;Euro vs South African Rand;0;0;-434.58;233.02;points;2580;100000;0.01;0.01;0;1E-05;yes;Forex
+GBPAUD;Great Britan Pound vs Australian Dollar;0;0;-15.4;0.7;points;160;100000;0.01;0.01;0;1E-05;yes;Forex
+GBPCAD;Great Britan Pound vs Canadian Dollar;5;50;-9.07;-5.57;points;200;100000;0.01;0.01;2.839511;1E-05;yes;Forex
+GBPCHF;Great Britan Pound vs Swiss Franc;0;0;-0.29;-7.19;points;178;100000;0.01;0.01;0;1E-05;yes;Forex
+GBPJPY;Great Britan Pound vs Japanise Yen;0;0;-3.59;-5.19;points;108;100000;0.01;0.01;0;0.001;yes;Forex
+GBPNOK;Great Britan Pound vs Norwegian Krone;0;0;-72.65;-56.25;points;1460;100000;0.01;0.01;0;1E-05;yes;Forex
+GBPNZD;Great Britan Pound vs New Zealand Dollar;0;0;-15.46;0.54;points;360;100000;0.01;0.01;0;1E-05;yes;Forex
+GBPSEK;Great Britan Pound vs Swedish Krona;0;0;-38.56;-90.96;points;1400;100000;0.01;0.01;0;1E-05;yes;Forex
+GBPSGD;Great Britan Pound vs Singapore Dollar;0;0;-12.04;-8.34;points;340;100000;0.01;0.01;0;1E-05;yes;Forex
+GBPUSD;Great Britan Pound vs US Dollar;5;23;-6.75;-0.45;points;52;100000;0.01;0.01;3.75656;1E-05;yes;Forex
+NZDCAD;New Zealand Dollar vs Canadian Dollar;0;0;-0.54;-8.04;points;180;100000;0.01;0.01;0;1E-05;yes;Forex
+NZDCHF;New Zealand Dollar vs Swiss Franc;0;0;2.23;-8.57;points;200;100000;0.01;0.01;0;1E-05;yes;Forex
+NZDJPY;New Zealand Dollar vs Japanise Yen;0;0;0.75;-8.05;points;140;100000;0.01;0.01;0;0.001;yes;Forex
+NZDSGD;New Zealand Dollar vs Singapore Dollar;0;0;-2.32;-9.42;points;220;100000;0.01;0.01;0;1E-05;yes;Forex
+NZDUSD;New Zealand Dollar vs US Dollar;5;25;-0.47;-4.07;points;80;100000;0.01;0.01;3.75656;1E-05;yes;Forex
+SGDJPY;Singapore Dollar vs Japanise Yen;0;0;-4.32;-7.44;points;140;100000;0.01;0.01;0;0.001;yes;Forex
+USDCAD;US Dollar vs Canadian Dollar;5;21;-1.43;-6.73;points;52;100000;0.01;0.01;2.839511;1E-05;yes;Forex
+USDCHF;US Dollar vs Swiss Franc;5;20;2.81;-8.81;points;50;100000;0.01;0.01;3.871266;1E-05;yes;Forex
+USDHUF;US Dollar vs Hungarian Forint;0;0;-9.76;-28.36;points;520;100000;0.01;0.01;0;0.001;yes;Forex
+USDJPY;US Dollar vs Japanise Yen;3;16;-0.38;-6.78;points;40;100000;0.01;0.01;3.37014;0.001;yes;Forex
+USDMXN;US Dollar vs Mexican Peso ;0;0;-485.26;112.78;points;1030;100000;0.01;0.01;0;1E-05;yes;Forex
+USDNOK;US Dollar vs Norwegian Krone;5;532;-41.05;-65.05;points;780;100000;0.01;0.01;0.443566;1E-05;yes;Forex
+USDPLN;US Dollar vs Polish Zloty;5;358;-29.71;-18.51;points;700;100000;0.01;0.01;1;1E-05;yes;Forex
+USDSEK;US Dollar vs Swedish Krona;5;452;-18.84;-98.14;points;820;100000;0.01;0.01;0.431366;1E-05;yes;Forex
+USDSGD;US Dollar vs Singapore Dollar;0;0;-8.45;-11.95;points;140;100000;0.01;0.01;0;1E-05;yes;Forex
+USDTRY;US Dollar vs Turkish Lira;0;0;-134.37;70.83;points;280;100000;0.01;0.01;0;1E-05;yes;Forex
+USDZAR;US Dollar vs South African Rand;0;0;-30.44;16.56;points;206;100000;0.01;0.01;0;1E-04;yes;Forex
+AUS200Cash;Australia 200 Index Cash;0;0;-0.78;-0.17;;400;1;0.01;1;0.01;0.01;yes;CFD
+BRENT-AUG17;BRENT Futures August 2017;2;5;-0.47;-0.23;;10;100;0.01;1;1;0.01;yes;CFD
+CHI50-JUN17;China A50 Index Futures June 2017;0;0;-0.47;-0.23;;15;1;0.01;1;1;1;yes;CFD
+CHI50Cash;China A50 Index Cash;0;0;-1.31;-0.57;;15;1;0.01;1;1;1;yes;CFD
+COCOA-SEP17;US Cocoa Futures September 2017;0;14;-0.33;-0.2;;14;1;0.01;1;1;1;yes;CFD
+COFFE-SEP17;US Coffee Futures September 2017;0;0;-0.33;-0.2;;20;10000;0.01;1;5;0.0005;yes;CFD
+CORN-JUL17;US Corn Futures July 2017;0;0;-0.2;-0.14;;600;400;0.01;1;0.04;1E-04;yes;CFD
+EU50-SEP17;EU Stocks 50 Index Futures September 2017;0;0;-0.47;-0.23;;400;1;0.01;1;0.01;0.01;yes;CFD
+EU50Cash;EU Stocks 50 Index Cash;0;0;-0.26;-0.34;;400;1;0.01;1;0.01;0.01;yes;CFD
+EURDKK;Euro vs Danish Krone;5;215;-38.41;-47.91;points;260;100000;0.01;0.01;0.566008;1E-05;yes;CFD
+EURHKD;Euro vs Hong Kong Dollar;5;322;-63.86;-33.66;points;520;100000;0.01;0.01;0.481746;1E-05;yes;CFD
+EURRUB;Euro vs RUB;4;4436;-269.43;64.46;points;738;100000;0.01;0.01;0.636484;1E-04;no;CFD
+FRA40-JUL17;France 40 Index Futures July 2017;0;0;-0.45;-0.45;;600;1;0.01;1;0.01;0.01;yes;CFD
+FRA40Cash;France 40 Index Cash;0;0;-0.38;-0.5;;400;1;0.01;1;0.01;0.01;yes;CFD
+GBPDKK;Great Britan Pound vs Danish Krone;0;0;-27.08;-71.88;points;600;100000;0.01;0.01;0;1E-05;yes;CFD
+GER30-SEP17;Germany 30 Index Futures September 2017;0;0;-0.45;-0.45;;600;1;0.01;1;0.01;0.01;yes;CFD
+GER30Cash;Germany 30 Index Cash;2;200;-0.91;-1.21;;400;1;0.01;1;0.01;0.01;yes;CFD
+GOLD;GOLD;2;41;-10.53;-1.32;points;100;100;0.01;0.01;3.75656;0.01;yes;CFD
+GSOIL-JUL17;London Gas Oil Futures July 2017;0;0;-0.47;-0.23;;200;4;0.01;1;0.04;0.01;yes;CFD
+HGCOP-JUL17;High Grade Copper Futures July 2017;0;0;-0.47;-0.23;;100;2000;0.01;1;0.2;1E-04;yes;CFD
+HK50Cash;Hong Kong 50 Index Cash;0;0;-2.41;-1.88;;20;1;0.01;1;1;1;yes;CFD
+IT40Cash;Italy 40 Index Cash;0;0;-1.5;-2;;30;1;0.01;1;1;1;yes;CFD
+JP225-SEP17;Japan 225 Index Futures September 2017;0;0;-0.47;-0.23;;14;1;0.01;1;1;1;yes;CFD
+JP225Cash;Japan 225 Index Cash;0;0;-1.65;-1.66;;10;1;0.01;1;1;1;yes;CFD
+NETH25Cash;Netherlands 25 Index Cash;0;0;-0.04;-0.05;;100;1;0.01;1;0.01;0.01;yes;CFD
+NGAS-JUL17;Natural Gas Futures July 2017;0;0;-0.5;-0.23;;70;1000;0.01;1;1;0.001;yes;CFD
+OIL-AUG17;WTI Oil Futures August 2017;0;0;-0.47;-0.23;;10;100;0.01;1;1;0.01;yes;CFD
+OILMn-AUG17;WTI Oil Mini Futures August 2017;0;0;-0.47;-0.23;;10;10;0.01;1;0.1;0.01;yes;CFD
+PALL-SEP17;Palladium Futures September 2017;0;0;-0.47;-0.23;;1000;10;0.01;1;0.05;0.05;yes;CFD
+PLAT-JUL17;Platinum Futures July 2017;0;0;-0.47;-0.23;;800;10;0.01;1;0.1;0.01;yes;CFD
+POL20Cash;Poland 20 Index Cash;0;3;-0.31;-0.09;;3;1;0.01;1;1;1;no;CFD
+SBEAN-JUL17;US Soybeans Futures July 2017;0;0;-0.76;-0.42;dep ccy;200;400;0.01;1;0.04;1E-04;yes;CFD
+SILVER;SILVER;3;47;-5.5;-5.01;points;140;5000;0.01;0.01;18.7828;0.001;yes;CFD
+SING-JUN17;Singapore Blue Chip Index Futures June 2017;0;0;-0.47;-0.23;;100;1;0.01;1;0.01;0.01;yes;CFD
+SINGCash;Singapore Blue Chip Index Cash;0;0;-0.04;-0.02;;100;1;0.01;1;0.01;0.01;yes;CFD
+SPAIN35Cash;Spain 35 Index Cash;0;0;-0.77;-1.02;;15;1;0.01;1;1;1;yes;CFD
+SUGAR-JUL17;US Sugar No.11 Futures July 2017;4;9;-0.33;-0.2;;20;10000;0.01;1;1;1E-04;yes;CFD
+SWI20-SEP17;Switzerland 20 Index Futures September 2017;0;0;-0.93;-0.93;dep ccy;600;1;0.01;1;0.01;0.01;yes;CFD
+SWI20Cash;Switzerland 20 Index Cash;0;0;-0.55;-0.96;;400;1;0.01;1;0.01;0.01;yes;CFD
+UK100-SEP17;UK 100 Index Futures September 2017;0;0;-1.5;0.05;;400;1;0.01;1;0.01;0.01;yes;CFD
+UK100Cash;UK 100 Index Cash;0;0;-0.65;-0.56;;300;1;0.01;1;0.01;0.01;yes;CFD
+US100-SEP17;US 100 Index Futures September 2017;0;0;-1.19;-0.54;;400;1;0.01;1;0.01;0.01;yes;CFD
+US100Cash;US 100 Index Cash;0;0;-0.63;-0.33;;300;1;0.01;1;0.01;0.01;yes;CFD
+US30-SEP17;Wall Street 30 Index Futures September 2017;0;0;-0.47;-0.23;;800;1;0.01;1;0.01;0.01;yes;CFD
+US30Cash;Wall Street 30 Index Cash;2;280;-2.48;-1.08;;500;1;0.01;1;0.01;0.01;yes;CFD
+US500-SEP17;US 500 Index Futures September 2017;0;0;-0.47;-0.23;;100;1;0.01;1;0.01;0.01;yes;CFD
+US500Cash;US 500 Index Cash;0;0;-0.26;-0.14;;100;1;0.01;1;0.01;0.01;yes;CFD
+USDCNH;US Dollar vs Renminbi;0;0;-8.63;-1.63;points;50;100000;0.01;0.01;0;1E-04;yes;CFD
+USDDKK;US Dollar vs Danish Krone;5;272;-13.89;-75.19;points;340;100000;0.01;0.01;0.566008;1E-05;yes;CFD
+USDHKD;US Dollar vs Hong Kong Dollar;4;25;-2.55;-6.38;points;26;100000;0.01;0.01;4.817461;1E-04;yes;CFD
+USDRUB;US Dollar vs Rubol;4;4084;-203.04;14.93;points;456;100000;0.01;0.01;0.636484;1E-04;no;CFD
+USDX-SEP17;US Dollar Index September 2017;0;0;-0.1;-0.07;points;10;10;0.01;1;0.01;0.001;yes;CFD
+WHEAT-JUL17;US Wheat Futures July 2017;0;0;-0.33;-0.2;;200;400;0.01;1;0.04;1E-04;yes;CFD
